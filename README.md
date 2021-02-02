@@ -2,6 +2,13 @@
 My TODO list
 
 "My TODO list" application
+
+
+I think every junior programmer needs to do this TO LIST.
+
+In this task, I practiced the function in JAVA SCRIPT. I also tried to make the application nicely styled.
+
+
 Can we :
 
 -add a task
