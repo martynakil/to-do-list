@@ -3,9 +3,13 @@ My TODO list
 
 "My TODO list" application
 Can we :
+
 -add a task
+
 -remove
+
 -edit
+
 -mark as done
 
 Technology: HTML, CSS, JAVA SCRIPT
