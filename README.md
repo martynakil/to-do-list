@@ -6,7 +6,8 @@
 >from the series: learning the basics of Java script  :muscle:
 
 <h4>In this task, I practiced the function in JAVA SCRIPT. I also tried to make the application nicely styled.</h4>
-----
+
+----------
 
 
 * enter your task in the field
