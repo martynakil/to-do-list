@@ -34,7 +34,7 @@
 :computer: TECHNOLOGIES : html, css and JS.
 
 —
-My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/STONE-PAPER-SCISSORS-GAME)
+My next small project from JS basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/Exchange-Rate-App)
 
 
 
